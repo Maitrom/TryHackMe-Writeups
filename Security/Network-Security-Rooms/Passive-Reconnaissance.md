@@ -35,15 +35,13 @@
 - Permet l'analyse des offres d'emploi qui pourrait permettre d'identifier les technologies utilisées et donc de déduire l'architecture réseau interne sans même intéragir directement avec la 'cible'
 
 ```
-Code ou configuration d'exemple
-```
 
-**Importance pour vous:** Ceci est pertinent pour [CCNA/NSE4/Security+] car...
+**Importance pour vous:** Il est crucial de comprendre à quel point des données publiques qui pourraient paraître inoffensives peuvent en fait se révéler être un point d'entrée majeur pour une attaque. Ce concept est essentiel pour conseiller des entreprises sur la confidentialité de leurs informations techniques.
 
 ---
 
-### Concept 2: [Nom]
-**Définition:** [Explication simple du concept]
+### Concept 2: [Whois]
+**Définition:** [C'est un protocol de requête/réponse standardisé fonctionnant sur le port 43. Il permet d'interroger les bases de données des registaires de nom de domaine pour obtenir des informations administratives et techniques sur une cible]
 
 **Exemple pratique:**
 ```
