@@ -26,10 +26,14 @@
 
 ## 📚 Concepts clés couverts
 
-### Concept 1: [Nom]
-**Définition:** [Explication simple du concept]
+### Concept 1: [Passive Reconnnaissance]
+**Définition:** [La reconnaissance passive est la capacité à obtenir des informations à travers des ressources publiques sans interaction directe avec l'infrastructure cible]
 
 **Exemple pratique:** 
+- Permet par exemple une interrogation des enregistrements DNS d'un domaine depuis un sevreur DNS public
+- Lecture d'articles de presse pour par exemple, révéler des fusions d'entreprises, de nouveaux bureaux, des partenariats ...
+- Permet l'analyse des offres d'emploi qui pourrait permettre d'identifier les technologies utilisées et donc de déduire l'architecture réseau interne sans même intéragir directement avec la 'cible'
+
 ```
 Code ou configuration d'exemple
 ```
