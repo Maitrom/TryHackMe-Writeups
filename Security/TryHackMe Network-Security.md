@@ -16,7 +16,7 @@
 
 ## 🎯 Objectifs de la room
 
-- [ ] Objectif 1: [Passive Reconnaissance]
+- [x] Objectif 1: [Passive Reconnaissance](./Network-Security-Rooms/Passive-Reconnaissance.md)
 - [ ] Objectif 2: [Active Reconnaissance]
 - [ ] Objectif 3: [Nmap]
 - [ ] Objectif 4: [Protocol et Serveurs]
