@@ -38,11 +38,15 @@
 **Importance pour vous:** Il est crucial de comprendre à quel point des données publiques qui pourraient paraître inoffensives peuvent en fait se révéler être un point d'entrée majeur pour une attaque. Ce concept est essentiel pour conseiller des entreprises sur la confidentialité de leurs informations techniques.
 
 ### Concept 2: [Whois]
-**Définition:** [C'est un protocol de requête/réponse standardisé fonctionnant sur le port 43. Il permet d'interroger les bases de données des registaires de nom de domaine pour obtenir des informations administratives et techniques sur une cible]
+**Définition:** [C'est un protocol de requête/réponse standardisé(spécification RFC 3912) fonctionnant sur le port 43. Il permet d'interroger les bases de données des registaires de nom de domaine pour obtenir des informations administratives et techniques sur une cible]
 
 **Exemple pratique:**
+- Permet d'obtenir des informations de contact tel que le nom, l'organisation, addresse et télépgone du titulaire
+- Dates clés ; historique du domaine incluant la date de création initiale, la dernière mise à jour et la date d'expiration pour le renouvellement
+- Registaire ; identification de l'entité auprès de laquelle le nom de domaine a été enregistrée
 ```
 Code ou configuration d'exemple
+-whois tryhackme.com
 ```
 
 **Importance pour vous:** Ceci est pertinent car...
