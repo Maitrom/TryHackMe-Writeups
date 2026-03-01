@@ -4,23 +4,23 @@
 
 | Attribut | Valeur |
 |----------|--------|
-| **Room Name** | [Passive Reconnaissance] |
+| **Room Name** | [Network Security] |
 | **Difficulté** | ⭐ [Facile] |
 | **Catégorie** | [Networking/Security/] |
-| **Temps estimé** | 60 minutes |
-| **Status** | ✅ Complété |
+| **Temps estimé** |  |
+| **Status** |  |
 | **Date de complétion** | [01/03/2026] |
-| **Lien TryHackMe** | [[(https://tryhackme.com/room/passiverecon)] |
+| **Lien TryHackMe** | [[(https://tryhackme.com/module/network-security)] |
 
 ---
 
 ## 🎯 Objectifs de la room
 
-- [ ] Objectif 1: [Apprendre les outils essentiels pour la reconnaissance passive]
-- [ ] Objectif 2: [Apprendre Whois]
-- [ ] Objectif 3: [Apprendre nslookup et dig]
-- [ ] Objectif 4: [Apprendre DNSDumpster]
-- [ ] Objectif 5: [Apprendre Shodan.io]
+- [ ] Objectif 1: [Passive Reconnaissance]
+- [ ] Objectif 2: [Active Reconnaissance]
+- [ ] Objectif 3: [Nmap]
+- [ ] Objectif 4: [Protocol et Serveurs]
+- [ ] Objectif 5: [Net Sec challenge]
 
 ---
 
