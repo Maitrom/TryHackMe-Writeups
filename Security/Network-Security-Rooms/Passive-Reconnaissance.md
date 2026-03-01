@@ -49,7 +49,17 @@ Code ou configuration d'exemple
 -whois tryhackme.com
 ```
 
-**Importance pour vous:** Ceci est pertinent car...
+**Importance pour vous:** Il est essentiel de prendre conscience du type d'information qu'une personne peut obtenir via une simple requête WHOIS. Cela permet de conseiller les entreprises sur les différents services de protection afin de sécuriser leurs données administratives et de réduire la surface d'exposition lors d'une phase de reconnaissance passive.
+
+### Concept 3: [nslookup et dig]
+**Définition:** [nslookup permet de trouver l'addresse IP ou l'enregistrement DNS d'un nom d'hôte spécifique]
+
+### Concept 4: [DNSDumpster]
+**Définition:** []
+
+
+
+**Exemple pratique:** 
 
 ---
 
