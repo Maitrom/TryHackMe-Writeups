@@ -8,13 +8,10 @@ Bienvenue dans mon portfolio de cybersécurité ! Cette collection documente mon
 
 | Métrique | Valeur |
 |----------|--------|
-| **Rooms complétées** | XX/XXX |
-| **Points TryHackMe** | XX,XXX |
-| **Heures d'apprentissage** | XXX+ |
-| **Certifications en cours** | CCNA, NSE4, Security+ |
+| **Rooms complétées** | 38 |
+| **Points TryHackMe** | ≥ 2000 |
+| **Certifications en cours** |/|
 | **Langues** | FR, EN |
-
-*Mise à jour: [Date]*
 
 ---
 
@@ -63,12 +60,12 @@ TryHackMe-Writeups/
 ## 🎯 Parcours d'apprentissage
 
 ### Phase 1: Fondamentaux (En cours - Mars à Juin 2026)
-- [ ] Network Fundamentals
-- [ ] Intro to Networking
-- [ ] OSI Model
-- [ ] DNS in detail
-- [ ] HTTP in Detail
-- [ ] Packets & Frames
+- [x] Network Fundamentals
+- [x] Intro to Networking
+- [x] OSI Model
+- [x] DNS in detail
+- [x] HTTP in Detail
+- [x] Packets & Frames
 - [ ] Spanning Tree Protocol
 - [ ] OSPF
 - [ ] BGP
@@ -83,7 +80,7 @@ TryHackMe-Writeups/
 - [ ] Active Directory Basics
 - [ ] Introduction to DevOps
 
-**Objectif:** Compléter CCNA + débuter NSE4
+**Objectif:** 
 
 ### Phase 3: Détection & Défense (Octobre-Décembre 2026)
 - [ ] SOC Level 1 Path
@@ -91,7 +88,7 @@ TryHackMe-Writeups/
 - [ ] VPN basics
 - [ ] Security Operations Centre 1
 
-**Objectif:** Préparer Security+ + différenciation
+**Objectif:** 
 
 ---
 
@@ -99,12 +96,7 @@ TryHackMe-Writeups/
 
 | Certification | Statut | Date | Lien |
 |---------------|--------|------|------|
-| **CCNA - Intro to Network** | 📚 En cours | Mars 2026 | [Technifutur] |
-| **CCNA - Switching, Routing & Wireless** | 📚 En cours | Avril 2026 | [Technifutur] |
-| **CCNA - Enterprise Networking** | 📚 En cours | Mai 2026 | [Technifutur] |
-| **Fortigate 7.4 NSE4** | 📚 En cours | Juin 2026 | [Technifutur] |
-| **ISC2 - Certified in Cybersecurity** | 📋 Préparation | Août 2026 | [Gratuit] |
-| **CompTIA Security+** | 📋 Planifié | Septembre 2026 | [400€] |
+| **CCNA - Intro to Network** |
 
 ---
 
